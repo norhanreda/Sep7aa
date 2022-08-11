@@ -1,0 +1,9 @@
+C:\Users\norhan(aa)\Desktop\visual projects\sep7aa\sep7aa\bin\Debug\sep7aa.exe.config
+C:\Users\norhan(aa)\Desktop\visual projects\sep7aa\sep7aa\bin\Debug\sep7aa.exe
+C:\Users\norhan(aa)\Desktop\visual projects\sep7aa\sep7aa\bin\Debug\sep7aa.pdb
+C:\Users\norhan(aa)\Desktop\visual projects\sep7aa\sep7aa\obj\Debug\sep7aa.csprojResolveAssemblyReference.cache
+C:\Users\norhan(aa)\Desktop\visual projects\sep7aa\sep7aa\obj\Debug\sep7aa.Properties.Resources.resources
+C:\Users\norhan(aa)\Desktop\visual projects\sep7aa\sep7aa\obj\Debug\sep7aa.csproj.GenerateResource.Cache
+C:\Users\norhan(aa)\Desktop\visual projects\sep7aa\sep7aa\obj\Debug\sep7aa.exe
+C:\Users\norhan(aa)\Desktop\visual projects\sep7aa\sep7aa\obj\Debug\sep7aa.pdb
+C:\Users\norhan(aa)\Desktop\visual projects\sep7aa\sep7aa\obj\Debug\sep7aa.Sep7aa.resources
